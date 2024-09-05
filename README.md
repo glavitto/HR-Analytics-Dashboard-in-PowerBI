@@ -11,6 +11,6 @@ Job Satisfaction: Analysis of job satisfaction levels.
 Gender Distribution: Keeping inclusivity at the forefront of workforce analysis.
 Leveraging PowerBI’s robust capabilities has enabled us to transform raw data into actionable insights. This dashboard is a testament to the power of data visualization in making informed HR decisions.
 
-Check out more of my projects on GitHub: 
+Check out more of my projects on GitHub: https://github.com/glavitto/HR-Analytics-Dashboard-in-PowerBI
 
 #HRAnalytics #PowerBI #DataVisualization #HumanResources #DataDriven
